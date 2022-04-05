@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttpho" alt="ttpho" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Mandarin Chinese**
+- 🌱 I’m currently learning **Chinese**
 
 - 📫 How to reach me **tranthanhpho2011@gmail.com**
 
