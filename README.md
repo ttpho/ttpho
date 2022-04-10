@@ -16,3 +16,9 @@
 <a href="https://linkedin.com/in/tpho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tpho" height="30" width="40" /></a>
 <a href="https://ttpho.github.io/">My Blog</a>
 </p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttpho&show_icons=true&locale=en" alt="ttpho" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttpho" alt="ttpho" /></p>
