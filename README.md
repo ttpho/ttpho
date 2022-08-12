@@ -11,8 +11,6 @@
 - 📫 How to reach me **tranthanhpho2011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/pho.tran/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon.svg/fc72dd4bfde8.svg" alt="pho.tran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tpho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tpho" height="30" width="40" /></a>
 <a href="https://ttpho.github.io/">My Blog</a>
 </p>
