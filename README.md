@@ -8,6 +8,8 @@
 
 - 👨‍💻 I make [DartJ](https://dartj.web.app/#/): Flutter application, parse `JSON` and generate `Dart` classes.
 
+[DartJ](https://dartj.web.app/#/) is supported: [JsonSerializable](https://pub.dev/packages/json_serializable), [Equatable](https://pub.dev/packages/equatable), [freezed](https://pub.dev/packages/freezed) and [vexana](https://pub.dev/packages/vexana) 
+
 - 📫 How to reach me **tranthanhpho2011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
