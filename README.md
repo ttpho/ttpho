@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttpho" alt="ttpho" /></a> </p> -->
 
 
-- 👨‍💻 I make [DartJ](https://dartj.web.app/#/): Flutter application, parse `JSON` and generate `Dart` classes, `Kotlin` classes, `Swift` classes and a script to generates a context with functions around an `Ecto` schema for [Phoenix Framework](https://phoenixframework.org).
+- 👨‍💻 I make [DartJ](https://dartj.web.app/#/): Flutter application, parse `JSON` and generate `Dart` classes, `Kotlin` classes, `Swift` classes and `Elixir` structs.
 
      With `Dart` class, [DartJ](https://dartj.web.app/#/) is supported: [JsonSerializable](https://pub.dev/packages/json_serializable), [Equatable](https://pub.dev/packages/equatable), [freezed](https://pub.dev/packages/freezed) and [vexana](https://pub.dev/packages/vexana) 
      
