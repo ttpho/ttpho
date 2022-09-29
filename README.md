@@ -15,11 +15,16 @@
 - 📫 How to reach me [ttpho.github.io](https://ttpho.github.io/)
 
 
-<h4 align="left">Connect with me:</h4>
-<a href="https://linkedin.com/in/tpho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tpho" height="30" width="40" /></a>
-<a href="https://ttpho.github.io/">My Blog</a>
-</p>
 
+
+<h4 align="left">Blog:</h4>
+
+
+- [Maestro - automate UI testing for your mobile app](https://ttpho.github.io/2022-09-25-maestro/)
+- [Using DartJ for Flutter project](https://ttpho.github.io/2022-08-07-dartj/)
+- [Flutter App use Telegram bot](https://ttpho.github.io/2021-08-17-flutter-telegram/)
+- [Flutter App - View PDF from PDF URL link](https://ttpho.github.io/2021-08-24-pdf-view-from-url/)
+- [Vietnamese - Covid-19, đối ứng đơn hàng với tình hình phong toả.](https://ttpho.github.io/2021-09-18-covid-2021/) 
 
 
 
