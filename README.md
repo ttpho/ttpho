@@ -22,9 +22,9 @@
 
 - [Maestro - automate UI testing for your mobile app](https://ttpho.github.io/2022-09-25-maestro/)
 - [Using DartJ for Flutter project](https://ttpho.github.io/2022-08-07-dartj/)
-- [Flutter App use Telegram bot](https://ttpho.github.io/2021-08-17-flutter-telegram/)
-- [Flutter App - View PDF from PDF URL link](https://ttpho.github.io/2021-08-24-pdf-view-from-url/)
-- [Vietnamese - Covid-19, đối ứng đơn hàng với tình hình phong toả.](https://ttpho.github.io/2021-09-18-covid-2021/) 
+- [Flutter App, use Telegram bot](https://ttpho.github.io/2021-08-17-flutter-telegram/)
+- [Flutter App, view PDF from PDF URL link](https://ttpho.github.io/2021-08-24-pdf-view-from-url/)
+- [(Vietnamese)Covid-19, đối ứng đơn hàng với tình hình phong toả.](https://ttpho.github.io/2021-09-18-covid-2021/) 
 
 
 
