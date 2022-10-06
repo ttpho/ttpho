@@ -12,7 +12,7 @@
      
      
 
-- 📫 How to reach me [ttpho.github.io](https://ttpho.github.io/)
+- 📫 How to reach me [ttpho.github.io](https://ttpho.github.io/) or [LinkedIn](https://www.linkedin.com/in/tpho/)
 
 
 
