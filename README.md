@@ -26,7 +26,7 @@ With `Dart` class, [DartJ](https://dartj.web.app/#/) is supported: [JsonSerializ
 
 <h4 align="left">Distribute:</h4>
 
-[Maestro - random inout](https://github.com/mobile-dev-inc/Maestro/pull/256/)
+[Maestro - random input](https://github.com/mobile-dev-inc/Maestro/pull/256/)
 
 
 <h4 align="left">Blog:</h4>
