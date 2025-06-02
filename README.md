@@ -24,6 +24,7 @@ With `Dart` class, [DartJ](https://dartj.web.app/#/) is supported: [JsonSerializ
 
 - [Localization Tools](https://localizationtools.web.app/): A Flutter web app to convert localization files between `.strings`, `.json`, `.xml`, and `.csv` formats.
 - [Lottie Preview](https://ttpho.github.io/lottie/): A Flutter web for previewing Lottie animations on simulated mobile devices, with configurable background color and support for loading Lottie files from local storage or a URL.
+- [Emoji Icon Generator](https://ttpho.github.io/emoji_icon_generator/): A simple web app to generate PNG icon files from any emoji, for use as favicons, app icons, or anywhere you need emoji-based graphics.
 - [Auto commit with Ollama](https://github.com/ttpho/git_diff_auto_commit): A Python script that automates the process of generating concise, conventional commit messages for your Git repository changes using an LLM (via Ollama). It can commit all changes at once or commit each file separately, with AI-generated commit messages based on the actual diffs.
 - [Android Drawable Gen](https://github.com/ttpho/android_drawable_gen): A Python script to auto-generate a Kotlin enum class for Android drawable resources, making it easier to reference drawables in a type-safe way.
 - [Android Assets Gen](https://github.com/ttpho/android_assets_gen): Android Assets Gen is a Kotlin code generator designed to streamline the management of assets, fonts, JSON files, and other resources in Android applications.
