@@ -8,13 +8,15 @@
 
 - 👨‍💻 I make [DartJ](https://dartj.web.app/#/): Flutter application, parse `JSON` and generate `Dart` classes, `Kotlin` classes, `Swift` classes and `Elixir` structs.
 
+
+With `Dart` class, [DartJ](https://dartj.web.app/#/) is supported: [JsonSerializable](https://pub.dev/packages/json_serializable), [Equatable](https://pub.dev/packages/equatable), [freezed](https://pub.dev/packages/freezed) and [vexana](https://pub.dev/packages/vexana) 
+
 <!-- https://github.com/ttpho/ttpho/assets/3994863/5d529258-c02c-4066-925e-ca2ffc68a804 -->
 
 ![DartJ](https://github.com/ttpho/ttpho/assets/3994863/97b27bfc-073b-46af-9604-d7dd397510bb)
 
 
 
-With `Dart` class, [DartJ](https://dartj.web.app/#/) is supported: [JsonSerializable](https://pub.dev/packages/json_serializable), [Equatable](https://pub.dev/packages/equatable), [freezed](https://pub.dev/packages/freezed) and [vexana](https://pub.dev/packages/vexana) 
      
 
 - 📫 How to reach me [ttpho.github.io](https://ttpho.github.io/) or [LinkedIn](https://www.linkedin.com/in/tpho/)
